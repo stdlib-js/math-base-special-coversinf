@@ -63,7 +63,7 @@ The [coversed sine][coversed-sine] is defined as
 ## Usage
 
 ```javascript
-import coversinf from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-coversinf@esm/index.mjs';
+import coversinf from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-coversinf@v0.1.1-esm/index.mjs';
 ```
 
 #### coversinf( x )
@@ -100,7 +100,7 @@ v = coversinf( -3.141592653589793/6.0 );
 import uniform from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-array-uniform@esm/index.mjs';
 import logEachMap from 'https://cdn.jsdelivr.net/gh/stdlib-js/console-log-each-map@esm/index.mjs';
 import TWO_PI from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-float32-two-pi@esm/index.mjs';
-import coversinf from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-coversinf@esm/index.mjs';
+import coversinf from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-coversinf@v0.1.1-esm/index.mjs';
 
 var opts = {
     'dtype': 'float32'
